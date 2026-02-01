@@ -181,4 +181,17 @@ The new medications (lecanemab, donanemab):
 
 ---
 
-*For detailed scientific evidence, see the other documents in this collection.*
+## Helpful Links for Family
+
+### Trusted Information Sources
+- [Alzheimer's Association - Treatments](https://www.alz.org/alzheimers-dementia/treatments) - Overview of treatment options
+- [American Heart Association - Physical Activity](https://www.heart.org/en/healthy-living/fitness) - Exercise guidelines
+- [National Institute on Aging - Exercise and Dementia](https://www.nia.nih.gov/health/exercise-and-physical-activity) - Government health information
+
+### Key Research Studies (Simplified Summaries)
+- [FINGER Trial Summary](https://www.nia.nih.gov/news/large-scale-trial-examines-lifestyle-interventions-protect-cognitive-function) - Lifestyle interventions work
+- [SPRINT-MIND Summary](https://www.nih.gov/news-events/news-releases/blood-pressure-control-may-reduce-brain-lesions-cerebrovascular-disease) - Blood pressure and brain health
+
+---
+
+*For detailed scientific evidence with full citations, see the other documents in this collection.*

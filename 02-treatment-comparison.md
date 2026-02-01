@@ -78,9 +78,9 @@ s# Treatment Comparison: Pharmacological vs Non-Pharmacological Interventions
 
 | Study | Population | Duration | Cognitive Outcome | Functional Outcome |
 |-------|------------|----------|-------------------|-------------------|
-| Cochrane Review (2018) | Mild-moderate AD | 24-26 weeks | ADAS-cog: -2.67 pts | ADL: +1.0 |
-| DOMINO Trial | Moderate-severe AD | 52 weeks | SMMSE: +1.9 (vs discontinuation) | BADLS: -3.0 |
-| VaD Trials | Vascular dementia | 24 weeks | ADAS-cog: -1.9-2.3 pts | NS global function |
+| [Cochrane Review (2018)](https://pubmed.ncbi.nlm.nih.gov/29923184/) | Mild-moderate AD | 24-26 weeks | ADAS-cog: -2.67 pts | ADL: +1.0 |
+| [DOMINO Trial](https://pubmed.ncbi.nlm.nih.gov/22375973/) | Moderate-severe AD | 52 weeks | SMMSE: +1.9 (vs discontinuation) | BADLS: -3.0 |
+| [VaD Trials](https://pubmed.ncbi.nlm.nih.gov/20558719/) | Vascular dementia | 24 weeks | ADAS-cog: -1.9-2.3 pts | NS global function |
 
 **Key Evidence Points:**
 - Effect sizes 30% smaller in VaD than pure AD
@@ -96,7 +96,7 @@ s# Treatment Comparison: Pharmacological vs Non-Pharmacological Interventions
 
 ### 2. Memantine in Moderate Dementia
 
-**Evidence Summary (Cochrane 2019, 14 studies, ~3,700 participants)**
+**Evidence Summary ([Cochrane 2019](https://pubmed.ncbi.nlm.nih.gov/30891742/), 14 studies, ~3,700 participants)**
 
 | Population | Cognitive Benefit | Functional Benefit | Behavioral Benefit |
 |------------|-------------------|-------------------|-------------------|
@@ -114,7 +114,7 @@ s# Treatment Comparison: Pharmacological vs Non-Pharmacological Interventions
 
 ### 3. Anti-Amyloid Monoclonal Antibodies
 
-**Lecanemab (Leqembi) - CLARITY-AD Trial**
+**Lecanemab (Leqembi) - [CLARITY-AD Trial](https://pubmed.ncbi.nlm.nih.gov/36449413/)**
 
 | Metric | Result | Clinical Significance |
 |--------|--------|----------------------|
@@ -122,7 +122,7 @@ s# Treatment Comparison: Pharmacological vs Non-Pharmacological Interventions
 | ARIA-E incidence | 12.6% | Brain edema |
 | ARIA-H incidence | 17.3% | Microhemorrhages |
 
-**Donanemab (Kisunla) - TRAILBLAZER-ALZ 2**
+**Donanemab (Kisunla) - [TRAILBLAZER-ALZ 2](https://pubmed.ncbi.nlm.nih.gov/37459141/)**
 
 | Metric | Result (Low/Med Tau) | Clinical Significance |
 |--------|---------------------|----------------------|
