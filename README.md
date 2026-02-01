@@ -42,6 +42,15 @@ This research was compiled to evaluate evidence-based interventions for a patien
 - Individual responses vary significantly
 - All interventions should be supervised by qualified professionals
 
+## Downloaded Papers
+
+The [papers/](./papers/) folder contains 15 key research papers including:
+- **Exercise Trials**: DAPA, FINGER, Liu-Ambrose VCI, Groot meta-analysis
+- **Drug Trials**: DOMINO, CLARITY-AD (lecanemab), SPARCL
+- **Cochrane Reviews**: Donepezil, Memantine, Exercise, Statins, CST
+- **Guidelines**: AHA Vascular Dementia Statement
+- **Diet/Nutrition**: MIND Diet, Psyllium meta-analysis
+
 ## Sources
 
 Research synthesized from:
@@ -49,6 +58,8 @@ Research synthesized from:
 - AHA/ASA clinical guidelines
 - Major randomized controlled trials (DAPA, FINGER, SPARCL, SPRINT-MIND)
 - 2024-2025 meta-analyses
+
+All references include PubMed links and DOIs where available. See [Sources & References](./06-sources-references.md) for complete bibliography.
 
 ---
 
