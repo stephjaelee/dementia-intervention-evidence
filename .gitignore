@@ -1,0 +1,15 @@
+# Ignore original AI report folders (may contain PII or personal context)
+ChatGPT/
+Claude/
+Gemini/
+Perplexity/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.idea/
+*.swp
+*.swo
+*~
