@@ -21,6 +21,10 @@ This research was compiled to evaluate evidence-based interventions for a patien
 | [Prescription Guidelines](./05-prescription-guidelines.md) | Specific, actionable prescriptions | Caregivers & healthcare team |
 | [Sources & References](./06-sources-references.md) | Complete bibliography | Researchers |
 
+## 中文版本 (Chinese Version)
+
+All documents are also available in Chinese: **[chinese/](./chinese/README.md)**
+
 ## Key Findings
 
 ### What Works
